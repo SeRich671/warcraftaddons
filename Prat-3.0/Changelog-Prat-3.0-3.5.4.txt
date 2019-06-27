@@ -1,0 +1,8 @@
+2013-02-10  funkydude  <funkydude>
+
+[42459ee99a38] [3.5.4]
+* .pkgmeta, Prat-3.0.toc, libraries/Prat-3.0_Libraries.toc, libraries/includes.xml, modules/OriginalButtons.lua, modules/PopupMessage.lua:
+
+Prevent talent blocking by 1) Replacing UIFrameFlash calls with animations and 2) Embedding LibChatAnims
+
+

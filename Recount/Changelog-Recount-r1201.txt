@@ -1,0 +1,34 @@
+------------------------------------------------------------------------
+r1201 | elsia | 2012-07-25 12:42:20 +0000 (Wed, 25 Jul 2012) | 1 line
+Changed paths:
+   M /trunk/deletion.lua
+
+- Changed to GROUP_ROSTER_UPDATE for MOP beta.
+------------------------------------------------------------------------
+r1200 | elsia | 2012-06-30 23:27:57 +0000 (Sat, 30 Jun 2012) | 1 line
+Changed paths:
+   M /trunk/Tracker.lua
+
+- Attempt at grabbing fixed Ace3 for MOP beta.
+------------------------------------------------------------------------
+r1199 | elsia | 2012-06-30 15:58:11 +0000 (Sat, 30 Jun 2012) | 1 line
+Changed paths:
+   M /trunk/GUI_Report.lua
+
+- Fixed mixing GetNumPartyMembers compatibility in GUI_Reports.lua (thanks to Bradj)
+------------------------------------------------------------------------
+r1198 | elsia | 2012-06-30 14:18:58 +0000 (Sat, 30 Jun 2012) | 1 line
+Changed paths:
+   M /trunk/LazySync.lua
+   M /trunk/Recount.lua
+   M /trunk/deletion.lua
+   M /trunk/roster.lua
+
+- Added MOP compatibility. This version should work both on live and on beta. Please report any bugs or debug messages.
+------------------------------------------------------------------------
+r1197 | 7destiny | 2012-03-22 08:35:11 +0000 (Thu, 22 Mar 2012) | 1 line
+Changed paths:
+   M /trunk/locales/Recount-koKR.lua
+
+- koKR Update
+------------------------------------------------------------------------

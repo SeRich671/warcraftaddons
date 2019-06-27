@@ -1,0 +1,12 @@
+tag v2.4.3
+d8b33d7ab34750d3592229d91e702d157e63f793
+funkydude <none>
+2013-01-25 18:11:17 +0000
+
+Tagging as v2.4.3
+
+
+--------------------
+
+funkydude:
+	- Fix ZoneText not hiding.
